@@ -42,7 +42,7 @@ ft_printf/
 #### Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:LFifMan/Printf.git
 cd ft_printf
 ```
 
